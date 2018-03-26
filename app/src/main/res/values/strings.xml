@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MathAssistant</string>
+    <string name="lblOp1">Operando 1</string>
+    <string name="lblOp2">Operando 2</string>
+    <string name="lblRes">Resutlado</string>
+    <string name="lblOperation">Operación</string>
+    <string name="btnCalculate">Calcular</string>
+    <string name="msgOK">El resultado es correcto</string>
+    <string name="msgNOK">El resultado no es correcto</string>
+    <string-array name="spnOppElements">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </string-array>
 </resources>
