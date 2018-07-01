@@ -13,4 +13,11 @@
         <item>Multiplicación</item>
         <item>División</item>
     </string-array>
+
+    <string-array name="spnOppValues">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
 </resources>
